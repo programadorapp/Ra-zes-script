@@ -1,0 +1,45 @@
+Licença de Uso do Software
+
+Versão 1.0Data: [08/03/2025]
+
+Português
+
+Esta licença concede a qualquer pessoa o direito de usar, modificar, distribuir e utilizar comercialmente este software, desde que sejam atendidas as seguintes condições:
+
+Créditos: Caso o software ou partes significativas do seu código sejam usados de forma praticamente inalterada ou como base principal de outro projeto, o crédito ao autor original deve ser mantido de forma clara na documentação e no código-fonte.
+
+Transparência para o Usuário Final:
+
+Este software é um gerador de pastas e arquivos baseado em códigos.
+
+Não é permitido ocultar a tela preta (terminal/console) para que o usuário final possa ver claramente o que está sendo criado no computador dele.
+
+O usuário final deve estar ciente das operações realizadas pelo software.
+
+Proibição de Restrição Adicional: Nenhuma restrição adicional pode ser imposta a terceiros que recebam cópias modificadas ou não do software, exceto as mencionadas nesta licença.
+
+Isenção de Responsabilidade: O software é fornecido "como está", sem garantias explícitas ou implícitas. O autor não se responsabiliza por quaisquer danos resultantes do uso do software.
+
+Software Usage License
+
+Version 1.0Date: [03/08/2025]
+
+English
+
+This license grants anyone the right to use, modify, distribute, and commercially utilize this software, provided the following conditions are met:
+
+Credits: If the software or significant parts of its code are used almost unchanged or as the main basis for another project, credit to the original author must be clearly maintained in the documentation and source code.
+
+User Transparency:
+
+This software is a folder and file generator based on code execution.
+
+It is not allowed to hide the black screen (terminal/console) so that the end user can clearly see what is being created on their computer.
+
+The end user must be aware of the operations performed by the software.
+
+No Additional Restrictions: No additional restrictions may be imposed on third parties who receive modified or unmodified copies of the software, except as mentioned in this license.
+
+Disclaimer: The software is provided "as is" without express or implied warranties. The author is not responsible for any damages resulting from the use of the software.
+
+Autor: [Thiago silva mendes]
